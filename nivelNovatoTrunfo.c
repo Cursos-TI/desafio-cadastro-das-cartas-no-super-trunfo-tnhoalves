@@ -75,4 +75,5 @@ int main() {
     printf("PIB: %.f bilhões de reais\n", pib2);
 
     return 0;
+    
 }
